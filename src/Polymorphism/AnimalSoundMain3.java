@@ -13,6 +13,7 @@ public class AnimalSoundMain3 {
             System.out.println("동물 소리 테스트 시작");
             a.sound();
             System.out.println("동물 소리 테스트 종료");
+            a.move();
         }
     }
 }
